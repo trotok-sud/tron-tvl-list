@@ -1,3 +1,9 @@
 [
-    
+  {
+    "name": "USDTF",
+    "url": "https://trotok-sud.github.io/usdtf-tvl/tvl.json",
+    "logo": "",
+    "category": "Minting",
+    "poolAddresses": [TCL6M2NnQ1Ath5MgYqpRuJBN1zXjuZa5F4]
+  }
 ]
