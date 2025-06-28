@@ -1,9 +1,9 @@
 [
   {
     "name": "USDTF",
-    "url": "https://trotok-sud.github.io/usdtf-tvl/tvl.json",
+    "url": "https://usdtf-tvl-production.up.railway.app/api/tvl",
     "logo": "",
     "category": "Minting",
-    "poolAddresses": [TCL6M2NnQ1Ath5MgYqpRuJBN1zXjuZa5F4]
+    "poolAddresses": ["TCL6M2NnQ1Ath5MgYqpRuJBN1zXjuZa5F4"]
   }
 ]

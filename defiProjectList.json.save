@@ -1,0 +1,22 @@
+{
+[
+  {
+    "name": "USDTF",
+    "url": "https://trotok-sud.github.io/usdtf-tvl/tvl.json",
+    "logo": "",
+    "category": "Minting",
+    "poolAddresses": []
+  }
+]
+
+  "name": "YourProjectName",
+  "logoURI": "https://…logo.png",
+  "homepage": "https://yourproject.home.page",
+  "MarketCapLink": "https://coinmarketcap.com/currencies/yourtoken",
+  "url": "https://…/api/tvl",
+  "category": "DEX", // pick one from Yield/DEX/Lending/Minting/Assets/Insuranc>
+  "poolAddresses": [
+    "TRONPOOLADDRESS1",
+    "TRONPOOLADDRESS2"
+  ]
+}
